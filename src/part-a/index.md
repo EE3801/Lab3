@@ -19,6 +19,6 @@ This part will consist of:
 > 
 > before:
 >
-> <p class="warn"> [TBD]
+> <p class="warn"> the end of the lab session at 2 pm on Oct 16th (Monday)
 >
-> in **PDF format only**, and name the file `Lab5A_YourName.pdf`
+> in **PDF format only** to the **Lab 5A** folder, and name the file `Lab5A_YourName.pdf`

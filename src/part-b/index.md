@@ -14,11 +14,11 @@ This part will consist of:
 > <p class="task"> Task
 >
 > Submit the following task for lab report for Part A: 
-> - Step [24](5.md#24)
-> - Step [46](6.md#46)
-> - Step [59](9.md#59)
-> - Step [60](9.md#60)
-> - Step [64](10.md#64)
+> - Step [39](6.md#39)
+> - Step [61](7.md#61)
+> - Step [74](10.md#74)
+> - Step [75](10.md#75)
+> - Step [79](11.md#79)
 > 
 > before:
 >

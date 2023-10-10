@@ -3,7 +3,7 @@
 This part will consist of:
 
 <ol start="5">
-  <li> Familiarize yourself with the command line (Estimated time: 15 mins)
+  <li> Familiarize yourself with the command line (Estimated time: 15 mins) [OPTIONAL]
   <li> Installing and testing software on AWS (Estimated time: 60 mins)
   <li> Setting up the data pipeline (Estimated time: 10 mins)
   <li> Executing the data pipeline (Estimated time: 20 mins)
@@ -14,11 +14,10 @@ This part will consist of:
 > <p class="task"> Task
 >
 > Submit the following task for lab report for Part A: 
-> - Step [39](6.md#39)
-> - Step [61](7.md#61)
-> - Step [74](10.md#74)
-> - Step [75](10.md#75)
-> - Step [79](11.md#79)
+> - Step [57](7.md#57)
+> - Step [70](10.md#70)
+> - Step [71](10.md#71)
+> - Step [75](11.md#75)
 > 
 > before:
 >

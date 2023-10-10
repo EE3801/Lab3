@@ -2,7 +2,7 @@
 
 This part will consist of:
 
-<ol start="5">
+<ol start="6">
   <li> Familiarize yourself with the command line (Estimated time: 15 mins) [OPTIONAL]
   <li> Installing and testing software on AWS (Estimated time: 60 mins)
   <li> Setting up the data pipeline (Estimated time: 10 mins)

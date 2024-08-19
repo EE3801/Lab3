@@ -21,6 +21,6 @@ This part will consist of:
 > 
 > before:
 >
-> <p class="warn"> the end of the lab session at 2 pm on September 26th (Monday)
+> <p class="warn"> the end of the lab session at 2 pm on August 26th (Monday)
 >
 > in **PDF format only** to the **Lab 3A** folder, and name the file `Lab3A_YourName.pdf`
